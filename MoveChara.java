@@ -21,7 +21,7 @@ public class MoveChara {
 
     public boolean useSpriteSheet = true;
     private static final String SPRITE_SHEET_PATH = "./png/hero.png";
-    private final String pngPathPre = "png/cat";
+    private final String pngPathPre = "png/hero";
     private final String pngPathSuf = ".png";
 
     private int posX;
